@@ -1,0 +1,1 @@
+add_library(toojpeg toojpeg.cpp toojpeg.h)
